@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/ContentStyle.css';
+import '../css/AsideStyle.css';
 
 export const Aside = () => {
     return (

@@ -5,10 +5,10 @@ export const Navigation = () => {
     return (
         <nav className="nav">
             <ul>
-                <li>Inicio</li>
-                <li>Peliculas</li>
-                <li>Blog</li>
-                <li>Contacto</li>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Peliculas</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contacto</a></li>
             </ul>
         </nav>
     );
