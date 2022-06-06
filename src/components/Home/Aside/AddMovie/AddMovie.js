@@ -32,11 +32,11 @@ export const AddMovie = ({setMovies}) => {
             <form onSubmit={ getNewMovieData }>
                 <input 
                     type="text" 
-                    placeholder="Titulo"
+                    placeholder="Title:"
                     name="title"
                 />
                 <textarea 
-                    placeholder="Descripcion"
+                    placeholder="Description:"
                     name="description"
                 ></textarea>
                 <input 

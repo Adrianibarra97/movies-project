@@ -17,7 +17,7 @@
 }
 
 .lateral input[type="text"],
-.lateral input[type="text"],
+input[type="text"],
 textarea {
     display: block; 
     margin: 0 auto;
