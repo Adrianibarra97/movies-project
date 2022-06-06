@@ -1,0 +1,5 @@
+.home {
+    display: grid;
+    grid-template-areas: "content content content lateral";
+    height: auto;
+}

@@ -37,6 +37,10 @@ input[type="button"] {
     transition: all 1000ms;
 }
 
+.movie-item .view:hover {
+    background: #0B70E1;
+}
+
 .movie-item .edit:hover {
     background: #E77B00;
 }

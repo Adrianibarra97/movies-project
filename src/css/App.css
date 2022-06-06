@@ -13,8 +13,12 @@ body {
   grid-template-areas:
       "header header header header"
       "nav nav nav nav"
-      "content content content lateral"
+      "container container container container"
       "footer footer footer footer"
   ;
   grid-template-rows: 100px 70px auto 70px;
+}
+
+.main-container {
+  grid-area: container;
 }
