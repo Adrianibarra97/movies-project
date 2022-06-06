@@ -31,3 +31,8 @@ textarea {
     outline: 0;
     border-color: transparent;
 }
+
+.not-found {
+    color: rgb(182, 5, 5);
+    font-weight: bold;
+}

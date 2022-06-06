@@ -9,7 +9,7 @@ export const Home = () => {
   return (
     <div className="home">
         <Content movies={movies} setMovies={setMovies}/>
-        <Aside setMovies={setMovies}/>
+        <Aside movies={movies} setMovies={setMovies}/>
     </div>
   );
 }
